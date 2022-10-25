@@ -92,6 +92,8 @@ paste("hello", "world")
 "one"
 # ---------
 
+#My favorite data type is logical!
+
 3 > 4
 class(TRUE)
 class(T)
@@ -105,6 +107,9 @@ class(fac)
 x <- c(1, 2, 3)
 x
 "x"
+
+#x is a vector
+
 # ---------------------
 
 # Your Turn
